@@ -1,3 +1,7 @@
+# 2nd Place win in IBM Mini Challenge
+![Screenshot 2025-03-11 073235](https://github.com/user-attachments/assets/c6b9ae0f-f1f7-4127-81ba-4235de1401b9)
+
+
 # Q-SITE 2023 - IBM Quantum Mini-challenges
 
 ## Requirements
